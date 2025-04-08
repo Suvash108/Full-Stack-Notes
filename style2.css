@@ -1,0 +1,14 @@
+div{
+    height: 5500 px;
+    width: 400 px;
+    background-color: aqua;
+    border:2px solid black;
+    display: inline-block;
+}
+#box1{
+    position: static;
+}
+#box2{
+    position: relative;
+    top: 30 px;
+}
